@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "noResolve": false,
+        "module": "system",
+        "target": "es5",
+        "sourceMap": true
+    },
+"exclude": [
+    "node_modules",
+"jspm_packages"
+]
+
+}

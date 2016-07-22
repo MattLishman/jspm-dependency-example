@@ -1,0 +1,15 @@
+{
+  "jspm": {
+    "dependencies": {
+      "angular": "github:angular/bower-angular@^1.5.7",
+      "angular-ui/ui-codemirror": "github:angular-ui/ui-codemirror@^0.3.0",
+      "codemirror/codemirror": "github:codemirror/codemirror@^5.17.0"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
+}
