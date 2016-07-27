@@ -8,11 +8,11 @@ System.config({
   },
 
   meta: {
-      "angular-ui/ui-codemirror": {
-          "deps": [
-              "codemirror/codemirror"
-           ],
-      }
+    "angular-ui/ui-codemirror": {
+      "deps": [
+        "codemirror/codemirror"
+      ]
+    }
   },
 
   map: {
